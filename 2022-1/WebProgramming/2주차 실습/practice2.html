@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>애니메이션 실습</title>
+    <style>
+        @keyframes textColorAnimation {
+            0% {color:blue;}
+            30% {color: green;}
+            100% {color: red;}
+        }
+        div{ 
+            animation-name: textColorAnimation;
+            animation-duration: 3s;
+            animation-iteration-count: 3;
+            transition: font-size 5s;}
+        div:hover { font-size: 500%;}
+        
+    </style>
+</head>
+<body>
+    <h3>font-size와 색에 대한 전환</h3>
+    <p><div><h2>꽝!</h2></div>텍스트를 5초에 blue, green, red로 무한 반복합니다.<br> 글자에 마우스를 올려보세요.</p>
+</body>
+</html>
