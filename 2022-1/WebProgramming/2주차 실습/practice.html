@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>웹페이지 구성</title>
+    <style>
+        body{ background-color: linen; color: green ; margin-left: 40px; margin-right: 40;}
+        h3{text-align: center; color: darkred;}
+        hr{height: 5px; border: solid; color: gray; background-color: grey;}
+        span{color:blue; font-size: 20px;}
+    </style>
+    <script>
+        function show(){
+            document.getElementById("fig").src="media/shrek.jpg";
+        }
+        function hide(){
+            document.getElementById("fig").src="";
+        }
+    </script>
+</head>
+<body>
+    <h3>Elvis Presley</h3>
+    <hr>
+    <div> <img id="fig" src=""> </div>
+    He was an American singer and actor. In November 1956, he made his film debut in 
+    <span onmouseover="show()" onmouseout="hide()"> Love Me Tender </span>
+    <div class="">
+        He is often referred to as "<span>the King of Rock and Roll </span>".
+    </div>
+</body>
+</html>
