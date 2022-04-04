@@ -1,0 +1,25 @@
+
+3월 28, 2022 19:39:03.67 NEW SESSION
+3월 28, 2022 19:39:03.67 [6908:3256:0328/193903.064:ERROR:device_event_log_impl.cc(214)] [19:39:03.064] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+3월 28, 2022 19:40:13.637 [4592:2800:0328/194013.637:ERROR:device_event_log_impl.cc(214)] [19:40:13.636] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+3월 28, 2022 19:40:25.74 [7880:7816:0328/194025.074:ERROR:device_event_log_impl.cc(214)] [19:40:25.075] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+3월 28, 2022 19:50:24.367 [3916:2076:0328/195024.366:ERROR:device_event_log_impl.cc(214)] [19:50:24.366] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+3월 28, 2022 19:52:19.468 [6932:5184:0328/195219.468:ERROR:device_event_log_impl.cc(214)] [19:52:19.469] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+3월 28, 2022 19:52:32.120 [5088:7312:0328/195232.120:ERROR:device_event_log_impl.cc(214)] [19:52:32.121] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+3월 28, 2022 20:01:46.67 [5088:7312:0328/200146.067:ERROR:interface_endpoint_client.cc(659)] Message 1 rejected by interface blink.mojom.WidgetHost
+3월 28, 2022 20:28:39.84 [4820:6464:0328/202839.084:ERROR:device_event_log_impl.cc(214)] [20:28:39.084] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+3월 28, 2022 20:38:56.152 [560:9904:0328/203856.151:ERROR:device_event_log_impl.cc(214)] [20:38:56.151] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+
+3월 29, 2022 23:25:17.985 NEW SESSION
+3월 29, 2022 23:25:17.985 [9128:16068:0329/232517.982:ERROR:device_event_log_impl.cc(214)] [23:25:17.983] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+3월 29, 2022 23:25:17.985 [9128:16068:0329/232517.983:ERROR:device_event_log_impl.cc(214)] [23:25:17.983] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+3월 29, 2022 23:25:17.986 [9128:16068:0329/232517.983:ERROR:device_event_log_impl.cc(214)] [23:25:17.983] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+3월 29, 2022 23:28:30.620 [11080:11660:0329/232830.620:ERROR:device_event_log_impl.cc(214)] [23:28:30.620] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+3월 29, 2022 23:28:30.620 [11080:11660:0329/232830.620:ERROR:device_event_log_impl.cc(214)] [23:28:30.620] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+3월 29, 2022 23:28:30.621 [11080:11660:0329/232830.620:ERROR:device_event_log_impl.cc(214)] [23:28:30.620] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+
+4월 04, 2022 15:15:08.190 NEW SESSION
+4월 04, 2022 15:15:08.190 [2348:14072:0404/151508.188:ERROR:device_event_log_impl.cc(214)] [15:15:08.188] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+4월 04, 2022 15:15:08.191 [2348:14072:0404/151508.189:ERROR:device_event_log_impl.cc(214)] [15:15:08.189] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+4월 04, 2022 15:33:23.231 [9276:8856:0404/153323.230:ERROR:device_event_log_impl.cc(214)] [15:33:23.230] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+4월 04, 2022 15:33:23.231 [9276:8856:0404/153323.230:ERROR:device_event_log_impl.cc(214)] [15:33:23.230] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)

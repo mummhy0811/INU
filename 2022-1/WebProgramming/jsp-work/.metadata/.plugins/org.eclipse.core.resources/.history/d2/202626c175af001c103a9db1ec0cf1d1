@@ -1,0 +1,14 @@
+package ch04.com.dao;
+
+public class GuGuDan {
+	private int[] ans;
+	
+	public int[] process(int n) {
+		
+		for(int i=1;i<=9;i++) {
+			ans[i]=n*i;
+		}
+		return ans;
+	}
+	
+}

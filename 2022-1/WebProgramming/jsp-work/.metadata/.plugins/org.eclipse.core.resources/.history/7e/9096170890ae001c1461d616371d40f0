@@ -1,0 +1,27 @@
+package dto;
+
+import java.io.Serializable;
+
+public class Product implements Serializable {
+
+		private static final long serialVersionUID =-4274700572038677000L;
+		
+		private String productId;
+		private String pname;
+		private Integer unitPrice;
+		private String description;
+		private String manufacturer;
+		private String category;
+		private long unitsInStock;
+		private String condition;
+		
+		public Product() {
+			super();
+		}
+		public Product(String productId, String pname, Integer unitPrice) {
+			this.productId=productId;
+			this.pname=pname;
+			this.unitPrice=unitPrice;
+		}
+		
+}

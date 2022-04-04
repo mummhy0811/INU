@@ -1,0 +1,15 @@
+127.0.0.1 - - [29/Mar/2022:23:25:14 +0900] "GET / HTTP/1.1" 404 807
+0:0:0:0:0:0:0:1 - - [29/Mar/2022:23:25:16 +0900] "GET /WebMarket/WEB-INF/classes/dao/ProductRepository.java HTTP/1.1" 404 721
+0:0:0:0:0:0:0:1 - - [29/Mar/2022:23:25:16 +0900] "GET /favicon.ico HTTP/1.1" 404 818
+0:0:0:0:0:0:0:1 - - [29/Mar/2022:23:25:58 +0900] "GET /JSPBook/ch04/useBean04.jsp HTTP/1.1" 200 354
+0:0:0:0:0:0:0:1 - - [29/Mar/2022:23:25:58 +0900] "GET /favicon.ico HTTP/1.1" 404 818
+0:0:0:0:0:0:0:1 - - [29/Mar/2022:23:28:28 +0900] "GET /JSPBook/ch04/forward.jsp HTTP/1.1" 200 187
+0:0:0:0:0:0:0:1 - - [29/Mar/2022:23:28:28 +0900] "GET /favicon.ico HTTP/1.1" 404 818
+0:0:0:0:0:0:0:1 - - [29/Mar/2022:23:38:52 +0900] "GET /JSPBook/ch02/scriptlet01.jsp HTTP/1.1" 200 189
+0:0:0:0:0:0:0:1 - - [29/Mar/2022:23:43:25 +0900] "GET /JSPBook/hw1/forward_data.jsp HTTP/1.1" 200 145
+0:0:0:0:0:0:0:1 - - [29/Mar/2022:23:53:30 +0900] "GET /JSPBook/hw1/forward_data.jsp HTTP/1.1" 500 2771
+0:0:0:0:0:0:0:1 - - [29/Mar/2022:23:55:11 +0900] "GET /JSPBook/hw1/forward_data.jsp HTTP/1.1" 500 2530
+0:0:0:0:0:0:0:1 - - [29/Mar/2022:23:55:40 +0900] "GET /JSPBook/hw1/forward.jsp HTTP/1.1" 500 2852
+0:0:0:0:0:0:0:1 - - [29/Mar/2022:23:56:49 +0900] "GET /JSPBook/hw1/forward.jsp HTTP/1.1" 200 158
+0:0:0:0:0:0:0:1 - - [29/Mar/2022:23:58:00 +0900] "GET /JSPBook/hw1/forward.jsp HTTP/1.1" 200 267
+0:0:0:0:0:0:0:1 - - [29/Mar/2022:23:58:26 +0900] "GET /JSPBook/hw1/forward.jsp HTTP/1.1" 200 307

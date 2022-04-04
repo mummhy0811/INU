@@ -1,0 +1,18 @@
+package ch04.com.dao;
+
+public class GuGuDan {
+	private int dan;
+	
+	public int process(int n) {
+		return n;
+	}
+
+	public int getDan() {
+		return dan;
+	}
+
+	public void setDan(int dan) {
+		this.dan = dan;
+	}
+	
+}
