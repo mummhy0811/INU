@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Move &apos;hw1&apos; to &apos;WebContent&apos;" description="Move &apos;hw1&apos; to &apos;WebContent&apos;" destination="WebContent" element1="/JSPBook/WebContent/hw1" flags="7" id="org.eclipse.ltk.core.refactoring.move.resources" resources="1" stamp="1650276007937" updateReferences="true"/>&#x0A;<refactoring comment="Rename resource &apos;Exercise/WebContent/hw1&apos; to &apos;ch04&apos;" description="Rename resource &apos;hw1&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="WebContent/hw1" name="ch04" stamp="1650276017865" updateReferences="true"/>
+</session>

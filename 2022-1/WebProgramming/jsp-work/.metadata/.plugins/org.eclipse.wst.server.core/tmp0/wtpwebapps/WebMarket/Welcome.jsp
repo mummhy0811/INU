@@ -17,7 +17,7 @@ href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
 
 <body>
 	<%@ include file="menu.jsp"%>
-	<%! String greeting=" 상품목록";
+	<%! String greeting=" 웹 쇼핑몰에 오신 것을 환영합니다";
 	String tagline="Welcome to Web MArket!"; %>
 	
 	<div class="jumbotron">
@@ -34,6 +34,7 @@ href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
 			<%=tagline %>
 			</h3>
 			<%
+				response.setIntHeader("Refresh", 2);
 				Date day=new java.util.Date();
 				String am_pm;
 				int hour = day.getHours();

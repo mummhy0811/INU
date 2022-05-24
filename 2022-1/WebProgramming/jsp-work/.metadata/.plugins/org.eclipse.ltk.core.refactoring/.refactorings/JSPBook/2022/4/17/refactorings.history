@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;ch04.com.dao&apos; to &apos;Exercise/src&apos;&#x0D;&#x0A;- Original project: &apos;JSPBook&apos;&#x0D;&#x0A;- Destination element: &apos;Exercise/src&apos;&#x0D;&#x0A;- Original element: &apos;JSPBook/src/ch04.com.dao&apos;" description="Copy package" destination="=Exercise/src" element1="/src&lt;ch04.com.dao" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1650276070706" version="1.0"/>
+</session>

@@ -1,0 +1,1 @@
+UPDATE MEMBER SET anme='È«±æ¼ø' WHERE id='admin';

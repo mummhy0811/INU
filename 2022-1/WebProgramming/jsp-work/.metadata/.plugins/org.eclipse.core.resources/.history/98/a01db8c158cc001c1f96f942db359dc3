@@ -1,0 +1,6 @@
+function CheckProduct(){
+	var productId=document.getElementById("productId");
+	var name=document.getElementById("name");
+	var unitPrice=document.getElementById("unitPrice");
+	var unitsInStock=document.getElementById("unitsInStock");
+}

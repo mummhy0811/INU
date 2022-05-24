@@ -1,0 +1,17 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<%@page import="dto.Product" %>
+<%@page import="dao.ProductRepository" %>
+
+<% 
+	request.setCharacterEncoding("uft-8");
+
+	String productId=request.getParameter("productId");
+	String name=request.getParameter("name");
+	String unitPrice=request.getParameter("unitPrice");
+	String description=request.getParameter("description");
+	String manufacturer=request.getParameter("manufacturer");
+	String category=request.getParameter("category");
+	String unitInStock=request.getParameter("unitInStock");
+	String condition=request.getParameter("condition");
+%>
