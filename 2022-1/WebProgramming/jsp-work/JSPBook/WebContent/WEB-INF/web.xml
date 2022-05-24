@@ -17,7 +17,7 @@
  		<auth-method>FORM</auth-method>
  		<form-login-config>
  			<form-login-page>/ch10/login.jsp</form-login-page>
- 			<form-error-pate>/ch10/login_failed.jsp</form-error-pate>
+ 			<form-error-page>/ch10/login_failed.jsp</form-error-page>
  		</form-login-config>
  	</login-config>
 </web-app>
