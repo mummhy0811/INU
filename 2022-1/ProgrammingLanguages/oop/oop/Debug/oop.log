@@ -1,0 +1,13 @@
+﻿  Simulator.cpp
+C:\Users\user\Desktop\언어론\oop\oop\Simulator.cpp(29,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\user\Desktop\언어론\oop\oop\Simulator.cpp(35,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\user\Desktop\언어론\oop\oop\Simulator.cpp(49,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\user\Desktop\언어론\oop\oop\Simulator.cpp(63,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\user\Desktop\언어론\oop\oop\Simulator.cpp(91,15): warning C4101: 'e' :참조되지 않은 지역 변수입니다.
+C:\Users\user\Desktop\언어론\oop\oop\Simulator.cpp(94,14): warning C4101: 'n' :참조되지 않은 지역 변수입니다.
+C:\Users\user\Desktop\언어론\oop\oop\Simulator.cpp(97,17): warning C4101: 'e' :참조되지 않은 지역 변수입니다.
+C:\Users\user\Desktop\언어론\oop\oop\Simulator.cpp(128,15): warning C4101: 'e' :참조되지 않은 지역 변수입니다.
+C:\Users\user\Desktop\언어론\oop\oop\Simulator.cpp(131,14): warning C4101: 'n' :참조되지 않은 지역 변수입니다.
+C:\Users\user\Desktop\언어론\oop\oop\Simulator.cpp(134,17): warning C4101: 'e' :참조되지 않은 지역 변수입니다.
+C:\Users\user\Desktop\언어론\oop\oop\Simulator.cpp(161,15): warning C4101: 'choose' :참조되지 않은 지역 변수입니다.
+  oop.vcxproj -> C:\Users\user\Desktop\언어론\oop\Debug\oop.exe
